@@ -1,6 +1,6 @@
 # bandit_level6_writeup
 
-*[For better experience please read this writeup on this link](https://github.com/niranjannagumalli/bandit_level6_writeup#readme) *
+*[For better experience, please read this writeup (click on this link)](https://github.com/niranjannagumalli/bandit_level6_writeup#readme) *
 
 Hello everyone ,I am Niranjan and this is my writeup on the wargame bandit's 6th level.
 ## Login & password details
